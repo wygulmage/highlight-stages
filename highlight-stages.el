@@ -65,7 +65,7 @@
     (clojure-mode
      highlight-stages-lisp-quote-matcher . highlight-stages-clojure-escape-matcher)
     (ocaml-mode
-     highlight-stages-metaocaml-quote-matcher . highlight-stages-metaocaml-matcher-escape)
+     highlight-stages-metaocaml-quote-matcher . highlight-stages-metaocaml-escape-matcher)
     (tuareg-mode
      highlight-stages-metaocaml-quote-matcher . highlight-stages-metaocaml-escape-matcher)
     (c-mode
